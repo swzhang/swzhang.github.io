@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 通过Jekyll搭建个人博客
+title: 个人Blog搭建
 date: 2017-01-10 
 tags: 博客   
 ---
