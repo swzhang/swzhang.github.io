@@ -4,7 +4,7 @@
     <div class="ds-thread" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"></div>
 
     <script type="text/javascript">
-        var duoshuoQuery = {short_name:"{{ site.comment.duoshuo }}"};
+        var duoshuoQuery = {short_name:""swzhang""};
         (function() {
             var ds = document.createElement('script');
             ds.type = 'text/javascript';ds.async = true;
@@ -13,7 +13,6 @@
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
         })();
     </script>
-    <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
     
   {% elsif site.comment.disqus %}
     <div id="disqus_thread"></div>
@@ -33,6 +32,7 @@
             (d.head || d.body).appendChild(s);
         })();
     </script>
+    <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
   {% endif %}
   
   
