@@ -1,5 +1,8 @@
-# swzhang
-[swzhang](http://swzhang.github.io) 是一个简洁的博客模板.
+# 通过Jekyll搭建个人博客
+[Jekyll](http://swzhang.github.io) 是一个简洁的博客模板.
+
+
+
 
 
 #### 感谢   
