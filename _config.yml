@@ -1,0 +1,47 @@
+# Basic
+title: 张守文
+subtitle: 微信号：swzhang-gis
+description: 欢迎来到我的Blog~
+# 头像里面的标题
+avatarTitle: swzhang-gis
+# 头像里面的描述
+avatarDesc: Java / 大数据
+url: "http://swzhang.github.io"
+
+# Comment
+comment:
+    # disqus: swzhang
+    duoshuo: swzhang 
+
+# Social
+social:
+    weibo: 2762334722 
+    github: swzhang
+    # twitter: 
+    mail: swzhang.gis@qq.com
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 文章目录, description: archive, url: '/archive'}   
+    - {title: 标签页, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
