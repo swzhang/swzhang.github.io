@@ -1,6 +1,5 @@
 <header class="panel-cover {% if page.layout == 'post' or page.layout == 'page' %}panel-cover--collapsed{% endif %}" style="background-image: url('/images/background-cover.jpg')">
   <div class="panel-main">
-
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <!-- 头像效果-start -->
@@ -43,22 +42,19 @@
               <ul class="navigation">
                 <li class="navigation__item"><a href="/#blog" title="{{site.blog_button.description}}" class="blog-button">{{site.blog_button.title}}</a></li>
                 {% for item in site.nav %}
-                  <li class="navigation__item"><a href="{{item.url}}" title="{{item.description}}">{{item.title}}</a></li>
+                <li class="navigation__item"><a href="{{item.url}}" title="{{item.description}}">{{item.title}}</a></li>
                 {% endfor %}
               </ul>
             </nav>
           </div>          
         </div>
-
-
-        </div>
       </div>
-    </div>
+      </div>
+   </div>
     
     {% if site.cover_color %}
     <div class="panel-cover--overlay cover-{{site.cover_color}}"></div>
     {% else %}
     <div class="panel-cover--overlay cover-disabled"></div>
     {% endif %}
-  </div>
 </header>
