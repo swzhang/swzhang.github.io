@@ -1,21 +1,15 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我
 ---
 
 
 正朝着成为 Java SDK 开发者出发，喜欢捣鼓一些新技术和学习新知识。
 <p>
 GIS专业出身，平时喜欢看看书查查资料，逛逛技术论坛。
-
 <p>
 了解一些有关 Python 网络爬虫的概念。
 <p>
-
-技术博客：http://swzhang.github.io
-<p> 
-
-
-
-
-
+技术博客：[http://swzhang.github.io](https://swzhang.github.io)
+<p>
+欢迎关注微信公众号：swzhang-gis
