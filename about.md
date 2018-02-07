@@ -10,6 +10,6 @@ GIS专业出身，平时喜欢看看书查查资料，逛逛技术论坛。
 <p>
 了解一些有关 Python 网络爬虫技能、数据分析与可视化技术。
 <p>
-技术博客：http://swzhang.github.io
+技术博客：http://smart4j.cn
 <p>
 欢迎关注微信公众号：swzhang-gis
