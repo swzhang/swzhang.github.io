@@ -12,4 +12,4 @@ GIS专业出身，平时喜欢看看书查查资料，逛逛技术论坛。
 <p>
 技术博客：http://smart4j.cn
 <p>
-欢迎关注微信公众号：swzhang-gis
+欢迎关注微信公众号：smart4j-cn
