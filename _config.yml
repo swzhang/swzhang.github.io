@@ -1,12 +1,12 @@
 # Basic
 title: 一直在前行
-subtitle: 微信号：swzhang-gis
-description: 欢迎来到我的Blog~
+subtitle: 微信号：smart4j-cn
+description: 欢迎来到我的个人技术Blog~
 # 头像里面的标题
 avatarTitle: swzhang-gis
 # 头像里面的描述
-avatarDesc: Java / 大数据
-url: "http://swzhang.github.io"
+avatarDesc: Java / BigData
+url: "http://www.smart4j.cn"
 
 # Comment
 comment:
@@ -19,7 +19,7 @@ social:
     weibo: 2762334722 
     github: swzhang
     # twitter: 
-    mail: swzhang.gis@qq.com
+    mail: swzhang.gis@gmail.com
 
 permalink: /:year/:month/:title/
 # Format
