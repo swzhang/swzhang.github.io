@@ -1,18 +1,18 @@
 # Basic
 title: 一直在前行
-subtitle: 微信号：smart4j-cn
+subtitle: 微信号：IT-arch
 description: 欢迎来到我的个人技术Blog~
 # 头像里面的标题
-avatarTitle: swzhang-gis
+avatarTitle: swzhang-giserway
 # 头像里面的描述
-avatarDesc: Java / BigData
+avatarDesc: Java / JVM
 url: "http://www.smart4j.cn"
 
 # Comment
 comment:
     # disqus: swzhang
     # duoshuo: swzhang 
-    changyan: swzhang
+    changyan: swzhang-giserway
 
 # Social
 social:
